@@ -1,9 +1,9 @@
 import axios from "axios";
 
-const owner = "meetp-lanatus";
-const repo = "postman-testing";
+const owner = "username";
+const repo = "reponame";
 const branch = "main";
-const token = ""; // Replace with an environment variable in production
+const token = ""; // Replace with an environmenst variable in production
 
 // folders Tree
 const filesToCommit = {
